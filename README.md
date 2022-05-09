@@ -5,3 +5,5 @@
 database.properties：修改数据库账号密码
 
 controller：修改上传下载路径
+
+数据库的sql文件附在项目跟下
